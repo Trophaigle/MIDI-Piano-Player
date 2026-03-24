@@ -66,8 +66,11 @@ You can control playback via script:
 ```csharp
 midiPlayer.Play();
 midiPlayer.Stop();
+```
 
-### License
+---
+
+### 4. License
 
 This project is licensed under the MIT License.
 
