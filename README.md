@@ -49,6 +49,9 @@ Samples > BasicExample
 ### 1. Create Music Data (Scriptable Object)
 
 - Add the `MIDIAssetBuilder` component to a GameObject
+- Provide a MIDI file:
+  - Use a `TextAsset`
+  - Rename your `.mid` file to `.bytes`
 - Click **"Generate MIDI DATA"**
 - A Scriptable Object will be created in: Assets/Midi
 
@@ -61,9 +64,6 @@ Samples > BasicExample
   - Black keys parent
   - White keys parent
 - Click **"Auto Assign Keys and Configuration"**
-- Provide a MIDI file:
-  - Use a `TextAsset`
-  - Rename your `.mid` file to `.bytes`
 
 ---
 ### 3. Control Playback
