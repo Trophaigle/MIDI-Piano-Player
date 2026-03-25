@@ -7,7 +7,7 @@ A Unity package that plays MIDI files visually on a keyboard using DryWetMidi.
 
 If you notice this issue or manage to identify or fix the bug, please feel free to open an issue or contact me. Any feedback is greatly appreciated.
 
-## 🎬 Demo
+## 🎬 Demo (visual and audio)
 
 https://private-user-images.githubusercontent.com/153461032/569129490-d298070f-d561-4cb9-912f-cf7f12597395.mp4
 
