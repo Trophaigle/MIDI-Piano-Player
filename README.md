@@ -28,7 +28,7 @@ https://private-user-images.githubusercontent.com/153461032/569129490-d298070f-d
 1. Open Unity
 2. Go to **Window > Package Manager**
 3. Click **+ > Add package from Git URL**
-4. Enter: (github repos .git)
+4. Enter: [(github repos .git)](https://github.com/Trophaigle/MIDI-Piano-Player.git)
 
 ---
 
