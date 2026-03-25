@@ -1,6 +1,6 @@
 # MIDI-Piano-Player
 
-A Unity package that plays MIDI files visually on a keyboard using DryWetMidi.
+A Unity package that plays MIDI files visually on a keyboard using [DryWetMidi.](https://github.com/melanchall/drywetmidi)
 
 > ⚠️ This is an early version of the package and may be improved over time.
 > ⚠️ Note: It seems that, for reasons I don’t yet understand, the MIDI playback tempo may be slightly faster than the original audio track. This still needs further testing.
