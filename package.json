@@ -1,0 +1,20 @@
+{
+  "name": "com.trophaigle.midipianoplayer",
+  "version": "1.0.0",
+  "displayName": "MIDI Piano Player",
+  "description": "This is an example package",
+  "unity": "2021.3",
+  "dependencies": { },
+  "samples": [
+  {
+    "displayName": "Demo Scene",
+    "description": "A sample scene showing a keyboard playing MIDI file",
+    "path": "Samples~/DemoScene"
+  }
+],
+
+  "author": {
+    "name": "Thomas SERAFIN",
+    "url": "https://unityportfolio-gamma.vercel.app/"
+  }
+}

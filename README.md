@@ -3,7 +3,12 @@
 A Unity package that plays MIDI files visually on a keyboard using [DryWetMidi.](https://github.com/melanchall/drywetmidi)
 
 > ⚠️ This is an early version of the package and may be improved over time.
+
 > ⚠️ Note: It seems that, for reasons I don’t yet understand, the MIDI playback tempo may be slightly faster than the original audio track. This still needs further testing.
+
+## Prerequisites
+
+This package requires **DryWetMIDI** to be installed in your Unity project.  
 
 If you notice this issue or manage to identify or fix the bug, please feel free to open an issue or contact me. Any feedback is greatly appreciated.
 
