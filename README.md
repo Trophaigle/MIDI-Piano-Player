@@ -56,6 +56,8 @@ https://private-user-images.githubusercontent.com/153461032/569129490-d298070f-d
 - Assign:
   - Black keys parent
   - White keys parent
+  - The scriptable Object created
+  - An AudioSource
 - Click **"Auto Assign Keys and Configuration"** (scripts and animation controller will be added to the keys)
 
 ---
