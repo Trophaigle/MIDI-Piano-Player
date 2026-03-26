@@ -13,10 +13,8 @@ public class MIDIKeyAutoAssignEditor : Editor
 
          if (GUILayout.Button("Auto Assign and configure keys"))
         {
-            //contruire musique
             script.SetupKeys();
-            EditorUtility.SetDirty(script); // marque l'objet comme modifié
-            //Debug.Log("✅ Music Data Build");
+            EditorUtility.SetDirty(script); 
         }
     }
 }

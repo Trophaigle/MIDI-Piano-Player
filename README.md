@@ -28,24 +28,11 @@ https://private-user-images.githubusercontent.com/153461032/569129490-d298070f-d
 
 ## 📦 Installation
 
-### Via Unity Package Manager (Git URL)
+## Installation
 
-1. Open Unity
-2. Go to **Window > Package Manager**
-3. Click **+ > Add package from Git URL**
-4. Enter: [(github repos .git)](https://github.com/Trophaigle/MIDI-Piano-Player.git)
-
----
-
-## 🚀 Quick Start
-
-1. Import the package
-2. Open the sample scene:
-
-Samples > BasicExample
-
-3. Press Play
-→ The keyboard will automatically play the MIDI file
+1. Download or clone this repository
+2. Copy the `Assets/MIDIPianoPlayer` folder into your Unity project's `Assets` folder
+3. Open the DemoScene in `MIDIPianoPlayer/Runtime/DemoScene`
 
 ---
 

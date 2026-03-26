@@ -231,6 +231,8 @@ public class MIDIPianoPlayer : MonoBehaviour
 
        public void SetupKeys()
     {
+        int keyNumber = 0;
+
         if(whiteKeysParent == null || blackKeysParent == null)
         {
             Debug.LogError("Assign parents !");
@@ -244,13 +246,16 @@ public class MIDIPianoPlayer : MonoBehaviour
         foreach (Transform t in whiteKeysParent){
            SetupKey(t.gameObject);
            whiteKeys.Add(t.gameObject);
+           keyNumber++;
         }
          
 
         foreach (Transform t in blackKeysParent){
             SetupKey(t.gameObject);
             blackKeys.Add(t.gameObject);
+            keyNumber++;
         }
+        Debug.Log($"✅ Keys setup done! ({keyNumber} keys configured)");
     }
 
     private void SetupKey(GameObject key)
